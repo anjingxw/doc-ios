@@ -1,0 +1,10 @@
+## segue  连线   [ˈsɛɡˌwe, ˈseˌɡwe]
+## unwind 展开，松开  [ʌnˈwaɪnd]
+## archive 归档 [ˈɑ:rkaɪv]
+## inspector 检查员  [ɪnˈspɛktɚ]
+## asset  资源 [ˈæsˌɛt] 
+## assistant  助手  [əˈsɪstənt]
+## canves  画布，画板 [ˈkænvəs]
+## constant 常量
+## constraint  约束 [kənˈstrent]
+## convenience  便利的 [kənˈvinjəns]

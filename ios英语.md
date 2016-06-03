@@ -8,3 +8,4 @@
 ## constant 常量
 ## constraint  约束 [kənˈstrent]
 ## convenience  便利的 [kənˈvinjəns]
+## perform  运行，执行  [pərˈfɔ:rm]
